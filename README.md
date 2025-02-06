@@ -31,8 +31,8 @@ Llama_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
 ### Step 04- Use Llama 3.3
-    ## From the following link
-https://api-inference.huggingface.co/models/meta-llama/Meta-Llama-3-70B-Instruct
+    # From the following link
+    https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct
 
 
 ```bash
