@@ -28,4 +28,3 @@ for filepath in list_of_files:
             logging.info(f"Creating empty file: {filepath}")
     else:
         logging.info(f"{filename} is already exists in the directory: {filedir}")
-    
