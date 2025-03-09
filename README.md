@@ -1,4 +1,14 @@
 # Medical-Chatbot
+This project is an end-to-end medical chatbot utilizing the **Retrieval-Augmented Generation (RAG)** technique to enhance information retrieval from medical documents. The chatbot processes medical PDFs, extracts relevant content, generates embeddings, and stores them in **Pinecone**, a vector database, enabling efficient similarity search.  
+
+The system is powered by **Llama 3.3 LLM** and is integrated into a **Streamlit** app, providing users with an interactive and context-aware conversational experience. This ensures accurate and relevant responses based on medical document queries.  
+
+### Key Features:  
+- **RAG-based chatbot** for enhanced medical document retrieval  
+- **PDF processing pipeline** to extract and index content  
+- **Pinecone vector database** for efficient similarity search  
+- **Llama 3.3 LLM** for intelligent and context-aware responses  
+- **Streamlit UI** for an interactive and user-friendly experience  
 
 # How to run
 ### Steps:
